@@ -1,0 +1,25 @@
+<h1><style>
+html {background:grey}
+h1 {color: white;background: blue;}
+a {color: blue;}
+p {line-height:100%;}
+h3 {background-color: orange;margin-top:-15;font-size:11px;margin-bottom:-1;}
+  
+</style>
+<img src="https://avatars.githubusercontent.com/u/54186126?s=128&v=4" alt=""/>
+  <b>Alice</b>ComputerEntertainment
+</h1>
+<h3>
+<button><a href="">Home</a></button><button><a href="">Games</a></button><button><a href="">Software</a></button><button><a href="">Other</a></button><button><a href="">Youtube</a></button>
+</h3>
+
+<style>
+p  {background-color:white;color: black;font-size:11px;margin-left:20;margin-right:20}
+h2  {background-color:white;color: black; margin-top:-1;margin-bottom:-3;margin-bottom:-1;margin-left:20;margin-right:20}
+
+</style>
+<h2>Games</h2>
+<p>
+ Below, you will find download links to some of the games we have made, as well as the platforms or software they run on. Enjoy!<br>
+  For DOS games, you should move ALL files to a storage medium (such as a floppy disk), reboot your computer, and then directly boot into the storage medium. This is the <b>easiest</b> way to ensure that a game will run as absolutely intended.
+  <br><a href="">NXT</a> OR <a href="">DOS</a> Baller -  Click the ball before it moves to another position.</p>
